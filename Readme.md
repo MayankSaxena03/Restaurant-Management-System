@@ -163,7 +163,7 @@ Start the server:
 
     go run main.go
 
-Use a tool like Postman to interact with the REST API endpoints. The base URL for the API is http://localhost:8000/.
+Use a tool like Postman to interact with the REST API endpoints. The base URL for the API is http://localhost:8080/.
 
 Create a new user by sending a POST request to /signup endpoint with the required user details. Once the user is created, use the /login endpoint to get an access token.
 
